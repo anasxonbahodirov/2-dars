@@ -1,10 +1,10 @@
-let ism = prompt ('String typedagi malumotni kiriting ' )
-let familiya = prompt ('Number typedagi malumotni kiriting')
-let yosh = prompt ('boolean typedagi malumtni kiriting')
+let string = prompt ('String typedagi malumotni kiriting ' )
+let number = prompt ('Number typedagi malumotni kiriting')
+let boolean = prompt ('boolean typedagi malumtni kiriting')
 let a = confirm('Hamma malumotlarni toliq kiritganinggizga ishonchinggiz komilmi?')
 alert('Siz birinchi kiritgan sozingiz string typega tegishli')
-alert('Siz ikkinchi kiritgan sozingiz string typega tegishli')
-alert('Siz uchinchi kiritgan sozingiz string typega tegishli')
+alert('Siz ikkinchi kiritgan sozingiz number typega tegishli')
+alert('Siz uchinchi kiritgan sozingiz boolean typega tegishli')
 
 
 

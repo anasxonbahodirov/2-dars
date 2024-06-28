@@ -1,13 +1,16 @@
+let ism = prompt ('String typedagi malumotni kiriting ' )
+let familiya = prompt ('Number typedagi malumotni kiriting')
+let yosh = prompt ('boolean typedagi malumtni kiriting')
+let a = confirm('Hamma malumotlarni toliq kiritganinggizga ishonchinggiz komilmi?')
+alert('Siz birinchi kiritgan sozingiz string typega tegishli')
+alert('Siz ikkinchi kiritgan sozingiz string typega tegishli')
+alert('Siz uchinchi kiritgan sozingiz string typega tegishli')
 
-alert('Sizda xozir random sonlari chiqishni boshledi😊')
-alert('Random orqali chiqqan son: 22')
-let a = confirm('Biz random sonni ikkiga kopaytirmoqchimiz va bolmoqchimiz')
-alert('Random orqali chiggan son: 22 edi biz uni 2 ga kopaytlrib 44 sonini chigardik, va shu sonni 2 ga bolib: 11 sonini chigardik, va shu sonni 3 ga bolgandagi qoldig: 1 sonini chiqardik')
 
 
-
-alert('Sizda xozir random sonlari chiqishni boshledi😜')
-alert('Random orqali chiqqan son: 55')
-let b = confirm('Biz random sonni ikkiga kopaytirmoqchimiz va bolmoqchimiz')
-alert('Random orqali chiqqan son: 55 edi biz uni 2 ga kopaytirib 110 sonini chiqardik, va shu sonni 2 ga bolib: 27.5 sonini chigardik, va shu sonni 3 ga bolgandagi qoldiq: 1 sonini chiqardik')
-alert('Korganingiz uchun tashakur👍👍👍')
+alert('Qimmat baho vaqtinggizni ajratganinggiz uchun tashakur')
+console.log('ism : ' + ism ) 
+console.log('familiya:' + familiya )
+console.log('yosh :' + yosh)
+console.log('yoqtirgan fan:' + fan)
+console.log('yashash manzil:' + tuman)
